@@ -1,0 +1,19 @@
+3
+
+CS1001
+Object Oriented Programming
+Hira Ilyas
+3
+50
+
+CS2003
+Programming Fundamentals
+Ayesha Siddique
+3
+60
+
+ME1144
+Discrete Structures
+Saira Qareem
+3
+40
